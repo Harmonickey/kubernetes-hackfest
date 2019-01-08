@@ -1,0 +1,12 @@
+project: Harmonickey/kubernetes-hackfest
+repository: github.com/Harmonickey/kubernetes-hackfest
+cloneURL: https://github.com/Harmonickey/kubernetes-hackfest
+sharedSecret: useSomethingSuperSecretForThis!
+github:
+    token: 530bf541ec9a87a0f8b3488de392a33d385405ac
+secrets:
+    acrServer: acrhackfestbennyhung1012.azurecr.io
+    acrName: acrhackfestbennyhung1012  
+    appId: 9fac4929-fecf-460a-a85d-e172f6a6230a
+    password: fafb6946-06c8-4f76-8d74-c08d8cbb2d2e
+    tenant: 53f3dc0a-512f-4399-817d-c4a55242d086
